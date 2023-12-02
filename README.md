@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ivan Prokhorov
-- 👀 I’m interested in DevOps
-- 🌱 I’m currently learning K9S
+- 👀 I’m DevOps
+- 🌱 I’m currently interested in Cloud services and Kubernetes
 - 💞️ I'm looking for cooperation in a project with microservice architecture with kubernetes
 - 📫 Feel free to email me
 
